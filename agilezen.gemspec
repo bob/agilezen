@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'cucumber', '~> 0.10.0'
   s.add_development_dependency 'fakeweb', '~> 1.3.0'
   
-  s.add_runtime_dependency 'faraday', '~> 0.5.4'
+  s.add_runtime_dependency 'faraday', '~> 0.7.6'
   s.add_runtime_dependency 'faraday_middleware', '~> 0.3.0'
   s.add_runtime_dependency 'multi_json', '~> 0.0.5'
   s.add_runtime_dependency 'hashie', '~> 0.4.0'
